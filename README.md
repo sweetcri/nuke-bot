@@ -15,4 +15,4 @@ Launch the script
 node index.js
 
 Issues :
-resolve it yourselfes
+there won't be
